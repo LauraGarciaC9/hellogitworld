@@ -26,4 +26,4 @@ To ensure a smooth workflow, please follow these steps when proposing updates:
 4. Push: Upload your feature branch to your personal fork.
 5. Review: Open a Pull Request targeting the upstream repository for review and integration.
 
-Tip: Try to keep each commit focused on a single, logical change.
+Contributor: Laura García Casado — Master's student in Data Science at the University of Cantabria (UC).
